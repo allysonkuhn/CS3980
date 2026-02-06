@@ -101,6 +101,7 @@ The program generates a line graph showing:
 - Y-axis: Execution time in seconds
 - Pattern: Nearly linear growth showing O(n) complexity with caching
 
+![Fibonacci Exectution Time Plot](fib.png)
 
 ### Usage
 
